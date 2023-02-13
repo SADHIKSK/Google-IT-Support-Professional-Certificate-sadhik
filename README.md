@@ -2,7 +2,7 @@
 
 <br>
 
-![cert](google-it-support.jpg)
+![cert](https://www.coursera.org/account/accomplishments/specialization/certificate/SKXCZJTAJ5QS)
 
 
 * This repository written for reference and self-documentation purpose
